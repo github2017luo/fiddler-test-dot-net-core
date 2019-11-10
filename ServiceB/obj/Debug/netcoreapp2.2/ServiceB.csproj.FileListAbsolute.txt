@@ -1,0 +1,14 @@
+c:\Users\Senthil\OneDrive\POC\FiddlerTestDotNetCore\ServiceB\bin\Debug\netcoreapp2.2\ServiceB.deps.json
+c:\Users\Senthil\OneDrive\POC\FiddlerTestDotNetCore\ServiceB\bin\Debug\netcoreapp2.2\ServiceB.runtimeconfig.json
+c:\Users\Senthil\OneDrive\POC\FiddlerTestDotNetCore\ServiceB\bin\Debug\netcoreapp2.2\ServiceB.runtimeconfig.dev.json
+c:\Users\Senthil\OneDrive\POC\FiddlerTestDotNetCore\ServiceB\bin\Debug\netcoreapp2.2\ServiceB.dll
+c:\Users\Senthil\OneDrive\POC\FiddlerTestDotNetCore\ServiceB\bin\Debug\netcoreapp2.2\ServiceB.pdb
+c:\Users\Senthil\OneDrive\POC\FiddlerTestDotNetCore\ServiceB\obj\Debug\netcoreapp2.2\ServiceB.csprojAssemblyReference.cache
+c:\Users\Senthil\OneDrive\POC\FiddlerTestDotNetCore\ServiceB\obj\Debug\netcoreapp2.2\ServiceB.csproj.CoreCompileInputs.cache
+c:\Users\Senthil\OneDrive\POC\FiddlerTestDotNetCore\ServiceB\obj\Debug\netcoreapp2.2\ServiceB.RazorAssemblyInfo.cache
+c:\Users\Senthil\OneDrive\POC\FiddlerTestDotNetCore\ServiceB\obj\Debug\netcoreapp2.2\ServiceB.RazorAssemblyInfo.cs
+c:\Users\Senthil\OneDrive\POC\FiddlerTestDotNetCore\ServiceB\obj\Debug\netcoreapp2.2\ServiceB.AssemblyInfoInputs.cache
+c:\Users\Senthil\OneDrive\POC\FiddlerTestDotNetCore\ServiceB\obj\Debug\netcoreapp2.2\ServiceB.AssemblyInfo.cs
+c:\Users\Senthil\OneDrive\POC\FiddlerTestDotNetCore\ServiceB\obj\Debug\netcoreapp2.2\ServiceB.RazorTargetAssemblyInfo.cache
+c:\Users\Senthil\OneDrive\POC\FiddlerTestDotNetCore\ServiceB\obj\Debug\netcoreapp2.2\ServiceB.dll
+c:\Users\Senthil\OneDrive\POC\FiddlerTestDotNetCore\ServiceB\obj\Debug\netcoreapp2.2\ServiceB.pdb
